@@ -1,0 +1,6 @@
+{
+"Proxy" : {
+	"host": "proxy.example.com",
+	"port": 8080
+	}
+}
